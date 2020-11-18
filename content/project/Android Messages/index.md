@@ -1,9 +1,8 @@
 ---
 title: Android Messages
-summary: Contributed in developing solutions for Android messages UX
+summary: Contributed in developing solutions for Android messages UX.
 
- Hands on SIP Protocol and Rich Communication services technology.
- Hands on SMS, MMS, File Transfer.
+Hands on SIP Protocol and Rich Communication services technology. Hands on SMS, MMS, File Transfer.
 
 tags:
 - Android Java
@@ -33,7 +32,4 @@ external_link: "https://play.google.com/store/apps/details?id=com.google.android
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Contributed in developing solutions for Android messages UX
-
- Hands on SIP Protocol and Rich Communication services technology.
- Hands on SMS, MMS, File Transfer.
+Contributed in developing solutions for Android messages UX. Hands on SIP Protocol and Rich Communication services technology. Hands on SMS, MMS, File Transfer.
