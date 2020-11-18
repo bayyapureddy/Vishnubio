@@ -1,13 +1,6 @@
 ---
 title: Android Messages
 summary: Contributed in developing solutions for Android messages UX. Hands on SIP Protocol and Rich Communication services technology. Hands on SMS, MMS, File Transfer.
-
-
-links:
-  - icon_pack: fab
-    icon: fa-download
-    name: Download
-    url: 'https://drive.google.com/u/0/uc?id=1USDpFadwEIhtGqoEnoxbhR429DSGPzM2&export=download/'
     
 tags:
 - android
