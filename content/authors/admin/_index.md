@@ -6,7 +6,7 @@ title: Vishnu Vardhan Reddy Bayyapureddy
 superuser: true
 
 # Role/position
-role: software Engineer
+role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
