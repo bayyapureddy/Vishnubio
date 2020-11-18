@@ -1,5 +1,5 @@
 ---
-title: SECURE DATA COMMUNICATION USING SOFTWARE DEFINED RADIO
+title: Secure Data Communication Using Software Defined Radio
 summary: Using this software and hardware kit we can able to detect and avoid any intruder who tries to intrude into our servers or communication devices using Software Defined Radio. Here we are enabling a radio with some ranges of ISM band frequencies and some modulations and when a intruder tries to match his frequencies with our ongoing frequencies the program which is running measures the output power and then alerts with a "ALERT" message so we can change the modulation or frequencies as we are having a hand full of frequencies, modulations.
 
 
@@ -41,5 +41,5 @@ slides: example
 ---
 Using this software and hardware kit we can able to detect and avoid any intruder who tries to intrude into our servers or communication devices using Software Defined Radio. Here we are enabling a radio with some ranges of ISM band frequencies and some modulations and when a intruder tries to match his frequencies with our ongoing frequencies the program which is running measures the output power and then alerts with a "ALERT" message so we can change the modulation or frequencies as we are having a hand full of frequencies, modulations.
 
-{{% staticref "files/report.doc" "newtab" %}}View my pynb{{% /staticref %}}
-{{% staticref "files/"presentation.ppt"newtab" %}}View my pynb{{% /staticref %}}
+{{% staticref "files/report.doc" "newtab" %}}Report{{% /staticref %}}
+{{% staticref "files/"final.ppt"newtab" %}}Presentation{{% /staticref %}}
