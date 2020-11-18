@@ -18,27 +18,31 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Lead Software Engineer"
+  company = "HCL Technologies"
+  company_url = "https://www.hcltech.com/"
+  location = "Hyderabad"
+  date_start = "2020-03-12"
   date_end = ""
-  description = """
+  description = """ Handling all the testing activities and working as an individual contributor. Continuous follow-ups with Dev,SRE, Onshore/offshore testing team.
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Testing
+  * Developer
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Software Engineer"
+  company = "Tech Mahindra Limited"
+  company_url = "https://www.techmahindra.com"
+  location = "Hyderabad"
+  date_start = "2017-03-24"
+  date_end = "2020-02-07"
+  description = """
+  Responsibilities include:
+
+  * Testing
+  * First Level Developer
+  """
 
 +++
