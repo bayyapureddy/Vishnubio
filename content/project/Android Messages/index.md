@@ -1,6 +1,7 @@
 ---
 title: Android Messages
-summary: Contributed in developing solutions for Android messages UX. Hands on SIP Protocol and Rich Communication services technology. Hands on SMS, MMS, File Transfer. Works on Sip Signalling supporting the feature of fallback to SMS or MMS. Requires DATA(Mobile Data or Wifi) for sending and receiving RCS messages.
+summary: Contributed in developing solutions for Android messages UX. Hands on SIP Protocol and Rich Communication services technology. Hands on SMS, MMS, File Transfer.
+
 links:
   - icon_pack: fab
     icon: fa-download
@@ -16,3 +17,4 @@ external_link: ""
 
 ---
 Contributed in developing solutions for Android messages UX. Hands on SIP Protocol and Rich Communication services technology. Hands on SMS, MMS, File Transfer.
+Android Messages works on Sip Signalling supporting the feature of fallback to SMS or MMS respecting carrier configurations. Requires DATA (Mobile Data or Wifi) for sending and receiving RCS messages.
