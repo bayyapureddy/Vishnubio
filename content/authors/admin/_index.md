@@ -49,12 +49,12 @@ social:
   link: https://github.com/examflunk/Vishnubio
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "vishnuvardhan146@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -62,8 +62,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+-
+- 
 ---
 
 Keen to be associated with a progressive organization that gives me challenges and opportunities to hone my skills in accordance with the latest trends while working dynamically towards growth of the organization. 
