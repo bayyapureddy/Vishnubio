@@ -25,9 +25,20 @@ subtitle = ""
   name = "Java"
   
 [[feature]]
-  icon = "fa-wrench"
+  icon = "html5"
   icon_pack = "fab"
-  name = "WebSite development"
+  name = "HTML"
+
+[[feature]]
+  icon = "css3"
+  icon_pack = "fab"
+  name = "CSS"
+
+[[feature]]
+  icon = "php"
+  icon_pack = "fab"
+  name = "PHP"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
