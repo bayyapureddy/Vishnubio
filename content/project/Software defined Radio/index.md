@@ -11,7 +11,7 @@ summary: Using this software and hardware kit we can able to detect and avoid an
    # url: 'https://drive.google.com/u/0/uc?id=1USDpFadwEIhtGqoEnoxbhR429DSGPzM2&export=download/'
     
 tags:
--  C, VISUAL BASIC
+-  C VISUAL BASIC
 
 date: "2020-01-27T00:00:00Z"
 
