@@ -18,8 +18,9 @@ bio: My knowledge on Android Development, Drones, Tele-communications
 
 interests:
 - Android Development
-- Drones
+- Web Development
 - Telecommunication Matter
+- Drones
 
 education:
   courses:
