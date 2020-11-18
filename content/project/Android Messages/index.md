@@ -1,12 +1,16 @@
 ---
 title: Android Messages
-summary: Contributed in developing solutions for Android messages UX.
+summary: Contributed in developing solutions for Android messages UX. Hands on SIP Protocol and Rich Communication services technology. Hands on SMS, MMS, File Transfer.
 
- Hands on SIP Protocol and Rich Communication services technology. 
- Hands on SMS, MMS, File Transfer.
 
+links:
+  - icon_pack: fab
+    icon: fa-download
+    name: Download
+    url: 'https://drive.google.com/u/0/uc?id=1USDpFadwEIhtGqoEnoxbhR429DSGPzM2&export=download/'
+    
 tags:
-- Android Java
+- android
 date: "2020-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -20,7 +24,7 @@ external_link: "https://play.google.com/store/apps/details?id=com.google.android
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
-#  url: https://twitter.com/vishnuisthelord
+#  url: https://twitter.com/vishnuthelord
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
