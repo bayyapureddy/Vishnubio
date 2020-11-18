@@ -15,18 +15,20 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-java"
+  icon = "android"
   icon_pack = "fab"
-  name = "Java"
+  name = "Android Studio"
   description = "90%"
-    
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
- [[feature]]
-  icon = "etl"
-  icon_pack = "custom"
-  name = "ETL"
+          
+[[feature]]
+  icon = "drone-alt"
+  icon_pack = "fas"
+  name = "Drones"
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Sqlite"
 
 #[[feature]]
 #  icon = "intelij"
@@ -34,14 +36,8 @@ subtitle = ""
 #  name = "Intelij"
 #  description = "90%"
 
- [[feature]]
-  icon = "android"
-  icon_pack = "custom"
-  name = "Eclipse"
-
- [[feature]]
-  icon = "vscode"
-  icon_pack = "custom"
-  name = "Visual Studio"
-  
+# Uncomment to use custom SVG icons.
+# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
+# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
+   
 +++
