@@ -26,7 +26,7 @@ subtitle = ""
   
 [[feature]]
   icon = "fa-wrench"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "WebSite development"
 
 # Uncomment to use emoji icons.
