@@ -25,7 +25,7 @@ subtitle = ""
   name = "Java"
   
 [[feature]]
-  icon = "web"
+  icon = "fa-wrench"
   icon_pack = "fas"
   name = "WebSite development"
 
