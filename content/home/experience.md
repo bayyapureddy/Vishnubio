@@ -27,8 +27,9 @@ date_format = "Jan 2006"
   description = """ Handling all the testing activities and working as an individual contributor. Continuous follow-ups with Dev,SRE, Onshore/offshore testing team.
   Responsibilities include:
   
-  * Testing
   * Developer
+  * Network Engineering
+  * Testing
   """
 
 [[experience]]
@@ -41,8 +42,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
 
-  * Testing
   * First Level Developer
+  * Network Engineering
+  * Core Functionality Testing
   """
 
 +++
