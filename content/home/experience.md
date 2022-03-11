@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "HCL Technologies"
   company_url = "https://www.hcltech.com/"
   location = "Hyderabad"
-  date_start = "2020-03-12"
+  date_start = "2020-02-12"
   date_end = ""
   description = """ Handling all the testing activities and working as an individual contributor. Continuous follow-ups with Dev,SRE, Onshore/offshore testing team.
   Responsibilities include:
